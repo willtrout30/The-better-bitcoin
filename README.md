@@ -1,1 +1,2 @@
 # The-better-bitcoin
+This will be the begining of a long road for me. I suffered a ruptured aneurysm last year at the start of covid. I was able to learn to walk again and got into web design. That reignited the passion to computer programming. I keep reading about how proof of work is unstanable and how Ethereum is slow to move in updates. I am interested in developing a blockchain that does not rely on greed but to spread a world of wealth through the God's grace. Let it be God, Jehovah, Allah or anyother religion that has faith in the one God.
